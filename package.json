@@ -1,0 +1,16 @@
+{
+  "name": "snapshot-vote-analyser",
+  "version": "1.0.0",
+  "description": "LIQ rewards from snapshot vote",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC"
+}
